@@ -6,7 +6,7 @@ I work across digital media production, book translation and editing, cultural j
 
 - Portfolio & Case Studies: **[shagha-m.github.io](https://shagha-m.github.io/)**
 - Academic CV: **[shagha-m.github.io/cv.html](https://shagha-m.github.io/cv.html)**
-- LinkedIn: **[in/shaghayegh-m-7b6479216](https://www.linkedin.com/in/shaghayegh-m-7b6479216/)**
+- LinkedIn: **[in/shaghayegh-mastalipour](https://www.linkedin.com/in/shaghayegh-mastalipour/)**
 - Contact: **[sh.mastalipour@gmail.com](mailto:sh.mastalipour@gmail.com)**
 
 ---
