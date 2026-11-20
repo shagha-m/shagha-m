@@ -22,6 +22,9 @@ I work across digital media production, book translation and editing, cultural j
 **3. Proprietary Media Products (Closed-Source)**
 - **Homat Course, E-Book & Flashcard DRM (Windows & Android)** — Specified, directed AI-assisted development of, tested, and operate a three-part DRM & learner CRM suite (desktop packager, WooCommerce license/HWID server, and capture-protected Windows & Android players) plus digital book and flashcard DRM; actively governing 36 issued licenses and 18 hardware-bound devices across 5 published courses on Homat Academy, with a B2B licensing roadmap. Source kept private for security and commercial IP ([Product dossier ↗](https://shagha-m.github.io/drm.html)).
 
+**4. Language-Learning Media Tools**
+- **[hosub-studio](https://github.com/shagha-m/hosub-studio)** — 100% offline multilingual subtitle & flashcard studio: Premiere-style waveform timeline, offline Whisper.cpp transcription with word timestamps, code-switching audio clip cutter and Excel flashcards (MIT).
+
 ---
 
 *Note: Technical repositories reflect AI-assisted prototyping guided by my product requirements, editorial domain design, systematic testing, and live operational management.*
